@@ -1,7 +1,7 @@
 # ICL-Capstone-BBO
 Imperial College ML &amp; AI capstone: Bayesian optimisation of eight black-box functions, with reproducible Python notebooks, query results and reflections.
 
-# Black-Box Optimisation Capstone
+# Black-Box Optimisation Capstone Project (2026)
 
 **Imperial College London | Professional Certificate in Machine Learning and Artificial Intelligence**
 
