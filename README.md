@@ -20,6 +20,10 @@ The challenge is to make effective use of limited evaluations by balancing:
 
 This repository documents the code, reasoning and evidence behind those decisions.
 
+[Datasheet](data_sheet.md)
+
+[Model Card](model_card.md)
+
 ## Project goals
 
 - Improve the best observed output for each of the eight functions.
