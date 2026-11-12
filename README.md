@@ -20,9 +20,9 @@ The challenge is to make effective use of limited evaluations by balancing:
 
 This repository documents the code, reasoning and evidence behind those decisions.
 
-[Datasheet](data_sheet.md)
+[Datasheet](docs/data_sheet.md)
 
-[Model Card](model_card.md)
+[Model Card](docs/model_card.md)
 
 ## Project goals
 
